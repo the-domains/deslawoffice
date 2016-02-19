@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-19T08:02:27.662Z'
-dateModified: '2016-02-19T08:02:22.973Z'
+datePublished: '2016-02-19T08:03:09.136Z'
+dateModified: '2016-02-19T08:03:00.059Z'
 title: PERSONALIZED LEGAL SERVICES
 author: []
+sourcePath: _posts/2016-02-19-personalized-legal-services.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-19-personalized-legal-services.md
-published: true
 url: personalized-legal-services/index.html
 _type: Article
 
