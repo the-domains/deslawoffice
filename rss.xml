@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[The Law Office of David Scribner]]></title>
         <description><![CDATA[The Law Office of David Scribner]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/deslawoffice/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 07:57:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 19 Feb 2016 07:58:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/deslawoffice/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12e3d0bb-0d21-46b5-a444-79f8b0fa0385.gif">]]></description>
-            <link>undefinede431815f-035c-4637-9d31-63cab2c016d4/index.html</link>
+            <link>https://thegrid.ai/deslawoffice/e431815f-035c-4637-9d31-63cab2c016d4/index.html</link>
             <guid isPermaLink="false">e431815f-035c-4637-9d31-63cab2c016d4</guid>
-            <pubDate>Fri, 19 Feb 2016 07:57:23 GMT</pubDate>
+            <pubDate>Fri, 19 Feb 2016 07:58:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
