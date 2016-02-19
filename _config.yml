@@ -1,0 +1,28 @@
+name: deslawoffice
+favicon: null
+layout_spectrum: 0.20098324143327773
+typography_spectrum: 0.5458966023288667
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9793564819265157
+  lightness: 0.9035336412489414
+  saturation: 0.26983695779927075
+  rhythmicContrast: 0.972938944818452
+purpose: []
